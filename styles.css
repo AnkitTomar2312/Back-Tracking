@@ -1,0 +1,145 @@
+.heading{
+    margin-top: 52px;
+    margin-left: 139px;
+    width: 280px;
+    height: 39px;
+    color: #424242;
+    opacity: 1;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.para{
+
+    text-align: left;
+    font: normal normal 300 18px/29px Inter;
+    letter-spacing: 0px;
+    color: #858585;
+    opacity: 1;
+    width: 1088px;
+    margin-left: 139px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.root-image{
+    margin-top: 27px;
+    margin-right: 783px;
+    margin-left: 139px;
+    width: 444px;
+    height: 233px;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.first-list{
+    margin-top: 40px;
+margin-left: 120px;
+width: 510px;
+height: 421px;
+opacity: 1;
+font-family: 'Noto Sans', sans-serif;
+}
+.list-item{
+    margin-top: 29px;
+
+text-align: left;
+letter-spacing: 0px;
+color: #858585;
+opacity: 1;
+font-family: 'Noto Sans', sans-serif;
+}
+.outside-box{
+    margin-top: 40px;
+margin-left: 139px;
+width: 1088px;
+background: #F8F8F8 0% 0% no-repeat padding-box;
+border: 1px solid #EDEDED;
+border-radius: 10px;
+opacity: 1;
+font-family: 'Noto Sans', sans-serif;
+}
+.inside-box{
+margin: 17px 23px 17px 24px;
+width: 1041px;
+height: 86px;
+text-align: left;
+font: normal normal medium 18px/30px Inter;
+letter-spacing: 0px;
+color: #858585;
+font-family: 'Noto Sans', sans-serif;
+opacity: 1;
+}
+hr{
+    margin-top: 26px;
+margin-left: 139px;
+width: 1088px;
+height: 0px;
+border: 1px solid #D8D8D8;
+opacity: 1;
+font-family: 'Noto Sans', sans-serif;
+}
+
+.heading2{
+    margin: 47px 139px 0px 139px;
+    width: 1088px;
+height: 33px;
+text-align: left;
+font: normal normal medium 22px/30px Inter;
+letter-spacing: 0px;
+color: #424242;
+opacity: 1;
+font-family: 'Noto Sans', sans-serif;
+}
+
+.code1{
+    margin-top: 20px;
+margin-left: 139px;
+width: 1088px;
+height: 400px;
+border: 1px solid #D8D8D8;
+border-radius: 10px;
+opacity: 1;
+font-family: 'Noto Sans', sans-serif;
+}
+.code1-1{
+margin: 33px 663px 33px 33px;
+width: 392px;
+height: 334px;
+text-align: left;
+font: normal normal 300 18px/30px Inter;
+letter-spacing: 0px;
+color: #007EB4;
+opacity: 1;
+font-family: 'Noto Sans', sans-serif;
+}
+.question{
+    /* Layout Properties */
+margin-top: 34px;
+margin-left: 139px;
+width: 1088px;
+height: 97px;
+/* UI Properties */
+opacity: 1;
+font-family: 'Noto Sans', sans-serif;
+}
+.question-ask{
+    width: 1088px;
+    height: 27px;
+   text-align: left;
+    font: normal normal normal 18px/30px Inter;
+    letter-spacing: 0px;
+    color: #424242;
+    opacity: 1;
+    font-family: 'Noto Sans', sans-serif;
+}
+.answer{
+    margin-top: 15px;
+    width: 415px;
+    margin-left: 0px;
+height: 21px;
+text-align: left;
+font: normal normal 300 18px/30px Inter;
+letter-spacing: 0px;
+color: #858585;
+opacity: 1;
+font-family: 'Noto Sans', sans-serif;
+}
+
